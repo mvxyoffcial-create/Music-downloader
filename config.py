@@ -14,6 +14,6 @@ class Config:
     ]
     WORKERS = 500
     WELCOME_IMG = "https://i.ibb.co/pr2H8cwT/img-8312532076.jpg"
-    RANDOM_WALLPAPER_API = "https://api.aniwallpaper.workers.dev/random?type=girl"
-    START_STICKER = "CAACAgIAAxkBAAEQZtFpgEdROhGouBVFD3e0K-YjmVHwsgACtCMAAphLKUjeub7NKlvk2TgE"
+    RANDOM_WALLPAPER_API = "https://i.ibb.co/KpDjCfFx/img-8108646188.jpg"
+    START_STICKER = "CAACAgQAAxkBAAEQqAVppTbJHAjruWesm0z6g7MZOPQjLQACUAEAAqghIQaxvfG1zemEojoE"
     STICKER_DELETE_DELAY = 2
